@@ -10,7 +10,7 @@ company name":CODTEC IT SOLUTION
 
 "Duration":4 weeks
 
-"Internship period":03 June 2026 - 01 July 2026
+"Internship period":21 May 2026 - 18 June 2026
 
 "Mentor":Neela Santhosh
 
