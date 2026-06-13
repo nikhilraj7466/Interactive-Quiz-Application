@@ -2,9 +2,9 @@
 
 company name":CODTEC IT SOLUTION
 
-"Name":Nikhil Raj
+"Name":ALok kumar Patel
 
-"Intern id":CITS3307
+"Intern id":CITS1167
 
 "Domain":Frontend web development
 
